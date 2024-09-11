@@ -180,3 +180,13 @@ footer {
     text-align: center;
     background-color: #3b7053;
 }
+
+footer > a {
+    text-decoration: none;
+    background-color: var(--cor1);
+    color: black;
+}
+
+footer > a:hover {
+    color: rgb(111, 0, 255);
+}
